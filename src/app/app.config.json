@@ -1,6 +1,6 @@
 {
-  "appname": "XXXXX",
-  "ocscope": "BuyerReader",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXX",
-  "buyerid": "XXXXX"
+  "appname": "QA Buyer App",
+  "ocscope": "FullAccess DevCenterImpersonate",
+  "clientid": "2BBA9D30-AD16-4D90-B4B1-BECB1C0FC1D2",
+  "buyerid": "Connor_Lata_buyer"
 }
